@@ -75,7 +75,7 @@
     "lodash-core": "^4.17.11",
     "lodash.flowright": "^3.5.0",
     "matchheight": "^0.1.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "next": "^9.1.4",
     "next-cookies": "^2.0.3",
     "numeral": "^2.0.6",
